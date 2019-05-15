@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game13</string>
+    <string name="welcoming_text">Welcome to 13. Are you ready to begin?</string>
+    <string name="start_game">Start game</string>
+    <string name="score_string">Score: </string>
+    <string name="score">0</string>
+    <string name="starting_in">Game starting in </string>
+    <string name="level">Level</string>
+</resources>
